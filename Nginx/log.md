@@ -1,0 +1,10 @@
+[Nginx官网文档](http://nginx.org/en/docs/http/ngx_http_log_module.html#log_format)
+[设置参考](http://nginx.org/en/docs/syslog.html)
+*****
+```
+HTTP标准头(HEADER)：User-Agent
+```
+```
+Nginx中变量：http_user_agent
+```
+*****
